@@ -1,0 +1,8 @@
+paso 1: it add nombre rama --> añadir solo fichero
+paso 2: git add . --> para añadir todo
+paso 3: git commit -m "first commit"
+paso 4: git checkout main --> cambiar rama a main
+paso 5: git merge pollo.txt --> unir lo remoto con lo local
+paso 6: git branch -D featured-pollo-asado --> eliminamos la rama que ya no utilizamos
+paso 7: git pull origin main --> nos descargamos los posibles cambios compartidos
+paso 8: git push origina main --> subir todo al main
